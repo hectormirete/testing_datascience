@@ -11,7 +11,8 @@ black = "*"
 
 [packages]
 scikit-learn = "*"
-
+numpy = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.8"
