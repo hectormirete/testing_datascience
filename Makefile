@@ -7,3 +7,5 @@ setup-dev:
 format:
 	pipenv run black
 
+unzip-data:
+	unzip data/book_crossing.zip -d ./data
